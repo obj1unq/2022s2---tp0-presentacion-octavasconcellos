@@ -2,6 +2,12 @@
 
 ## Estudiante: _VASCONCELLOS OCTAVIO_
 
+¡Buenas!
+
+Soy estudiante de TPI. Tengo 27 años y vivo en Florencio Varela.
+
+¡Saludos a todos/as!
+
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
 Consiste en hacer 2 simples tareas:
